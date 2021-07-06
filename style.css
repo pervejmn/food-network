@@ -278,7 +278,7 @@ footer {
     position: relative;
 }
 footer span {
-    color: #ffffff
+    color: orange;
 }
 footer h1, footer p {
     text-align: center;
